@@ -9,8 +9,27 @@ Found a problem with Font Awesome Pro? Want to see a specific icon revised/added
 3. Before opening any issue, please read the generic [issue guidelines](https://github.com/necolas/issue-guidelines), by Nicolas Gallagher.
 4. After doing everything above, feel free to [submit an issue](https://github.com/FortAwesome/Font-Awesome-Pro/issues/new).
 
-### Icon Requests + Submissions
-Please note: at the moment we are not accepting external icon contributions. If you'd like us to design and add a specific icon, you can make a request via the steps above. Feel free to include inspiration (including your own sketches/designs) along with the request.
+### Icon Requests + Suggestions
+New icons mostly start as requests by the [Font Awesome Pro community on GitHub](../../issues). Want to request a new icon or category? Here are some things to keep in mind:
+
+1. Please be nice. Font Awesome is a happy place.
+3. Please [search](../../search?type=Issues) to see if your icon or category request already exists. If a request is found, please add a 👍 reaction to that one.
+
+#### Requesting Individual Icons
+1. Please do not request comprehensive sets of icons related to a very specific field.
+2. Please make requests for single icons, unless you are suggesting an icon category (see below).
+3. Please and thank you if you include the following:
+  - Title your [new issue](../../issues/new?title=Icon%20Request:%20icon-) `Icon request: icon-name` (e.g., `Icon request: icon-car`).
+  - Include a few use cases for your requested icon. How do you plan on using it?
+  - Attach a single color image or two that represent the idea you're going for.
+  - Request concrete objects: it's harder to make an icon to represent happiness, it's easier to make a smiley face. ☺
+
+#### Requesting Icon Categories
+1. Include a few examples of icons or subjects to be covered in the category. How do you plan on using it?
+2. Please and thank you if you include the following:
+  - Title your [new issue](../../issues/new?title=Category%20Request:%20) `Category request: Category Name` (e.g., `Icon request: Desserts`).
+
+Please note: at the moment **we are not accepting external icon contributions**. If you'd like us to design and add a specific icon, you can make a request via the steps above. Feel free to include inspiration (including your own sketches/designs) along with the request.
 
 ### Reporting Security Issues
 Please do not report security issues in public. Please email hello@fontawesome.com.
