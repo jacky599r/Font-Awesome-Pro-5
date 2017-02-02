@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://img.fortawesome.com/349cfdf6/gh-logo.svg" alt="Font Awesome 5" width="50%"></h1>
 
-The internet's most popular icon is being redesigned and built from scratch. on top of this, Font Awesome Pro adds thousands more icons and features like icon font ligatures, an SVG framework, community voting/support, and access to a new CDN.
+The internet's most popular icon is being redesigned and built from scratch. On top of this, Font Awesome Pro adds thousands more icons and features like icon font ligatures, an SVG framework, community voting/support, and access to a new CDN.
 
 Not familiar with Font Awesome 5? [Learn more](https://www.kickstarter.com/projects/232193852/font-awesome-5) about our successful Kickstarter and plan. You can also **[pre-order your copy of Font Awesome Pro](http://five.fontawesome.io/)** and save off of the release price.
 
