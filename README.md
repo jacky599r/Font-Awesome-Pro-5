@@ -37,7 +37,7 @@ Font Awesome Pro received backing by thousands of people (thanks again!). With t
 
 * **General/Business inquiries** - email hello@fontawesome.com
 * **Account/Billing-related inquiries** - email hello@fontawesome.com
-* **Questions about [our Kickstarter](https://www.kickstarter.com/projects/232193852/font-awesome-5) campaign** - If you are a backer (thanks,btw!), please reply to individual updates or send a message through Kickstarter.
+* **Questions about [our Kickstarter](https://www.kickstarter.com/projects/232193852/font-awesome-5) campaign** - If you are a backer (thanks, btw!), please reply to individual updates or send a message through Kickstarter.
 
 ## Versioning
 Font Awesome Pro will be maintained under the [Semantic Versioning guidelines](http://semver.org) as much as possible. Releases will be numbered
