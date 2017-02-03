@@ -38,7 +38,8 @@ Please do not report security issues in public. Please email hello@fontawesome.c
 
 1. Please do not submit new icons.
 2. Please submit all pull requests against `*-wip` branches.
-3. All pull requests submitted against master will be summarily closed and this guide referenced.
+3. If your PR only affect the docs, feel free to push against the `master` branch
+3. All non-docs-related pull requests submitted against master will be summarily closed and this guide referenced.
 4. After doing everything above, feel free to [submit a pull request](https://github.com/FortAwesome/Font-Awesome-Pro/issues/new).
 
 ## Key Branches
