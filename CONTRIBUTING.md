@@ -27,7 +27,7 @@ New icons mostly start as requests by the [Font Awesome Pro community on GitHub]
 #### Requesting Icon Categories
 1. Include a few examples of icons or subjects to be covered in the category. How do you plan on using it?
 2. Please and thank you if you include the following:
-  - Title your [new issue](../../issues/new?title=Category%20Request:%20) `Category request: Category Name` (e.g., `Icon request: Desserts`).
+  - Title your [new issue](../../issues/new?title=Category%20Request:%20) `Category request: Category Name` (e.g., `Category request: Desserts`).
 
 Please note: at the moment **we are not accepting external icon contributions**. If you'd like us to design and add a specific icon, you can make a request via the steps above. Feel free to include inspiration (including your own sketches/designs) along with the request.
 
