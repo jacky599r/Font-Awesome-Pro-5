@@ -30,3 +30,8 @@
 * Allows use in a single theme that you can re-sell. For multiple themes, buy multiple licenses.
 * Cannot re-distribute Font Awesome Pro except embedded in your theme.
 * Grants a single personal / small business license for theme buyer to use Font Awesome Pro as a part of your theme (not outside).
+
+---
+
+# Contributions to Font Awesome 5
+By contributing to this project, you’re assigning all rights and privileges to the Font Awesome Team. We’ll make things in this repo open source wherever we can. If you have questions or need more clarification about this, feel free to contact us at hello@fontawesome.com.
