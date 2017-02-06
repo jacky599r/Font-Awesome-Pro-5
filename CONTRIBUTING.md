@@ -62,8 +62,9 @@ Please do not report security issues in public. Please email hello@fontawesome.c
 ## Pull Requests
 - At the moment we are not accepting pull requests containing icons
 - Submit all pull requests against the appropriate `*-wip` branch for easier merging
-- If your PR only affect the docs, feel free to push against the `master` branch
+- If your PR only affect the docs (on github or eventually on [fontawesome.com](https://fontawesome.com/)), feel free to push against the `master` branch
 - Try not to pollute your pull request with unintended changes--keep them simple and small
+- By submitting a pull request, you’re assigning all rights and privileges to the Font Awesome Team. We’ll make things in this repo open source wherever we can. If you have questions or need more clarification about this, feel free to contact us at hello@fontawesome.com.
 
 
 ## License
