@@ -1,6 +1,7 @@
 export function classParser(node) {
   return [...node.classList].reduce((acc, cls) => {
     if (cls === 'fa') { return acc; }
+    if (cls === 'fad') { acc.duotone = true; return acc;}
 
     if (cls.startsWith('fa-')) {
       acc.icon = cls.split('-').slice(1).join('-')
@@ -8,6 +9,8 @@ export function classParser(node) {
       acc.rest.push(cls)
     }
 
+    console.log(acc)
+
     return acc
-  }, {icon: '', rest: []})
+  }, {duotone: false, icon: '', rest: []})
 }
